@@ -1,0 +1,52 @@
+body
+{
+	background-color:#e0e0d1;
+	
+}
+* {
+  box-sizing: border-box;
+}
+.container
+{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	height:100%;
+}
+.head
+{
+	background-color:#c2c2a3;
+}
+main
+{
+	display:inner-block;
+	float:left;
+	width:40%;
+	height::500px;
+}
+#up
+{
+	background-color:#c2c2a3;
+}
+#table
+{
+	float:left;
+
+}
+#tb
+{
+	margin-left:0;
+	margin-right:0;
+	width:50%;
+	height:70px;
+	margin-top:50px;
+	padding:0;
+	float:right;
+}
+#gallery
+{
+	height:150px;
+	width:60%;
+	float:left;
+	display:inner-block;
+}

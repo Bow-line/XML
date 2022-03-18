@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
+<usługa_dla_sklepu>
+   <dostawa data="2020-12-11">
+		<komentarz>Główna dostawa artykułów artystycznych</komentarz>
+		<farby>
+			<Typ rodzaj="akwarele">
+					<Dostawca firma="WINSOR_AND_NEWTON">
+						<Cena_zakupu>40 </Cena_zakupu>
+						<Cena_sprzedarzy>45 </Cena_sprzedarzy>
+						<Ilość_towaru>6 palety</Ilość_towaru>
+						<Pojemnosc_Towaru>16 kolorów</Pojemnosc_Towaru>
+						<Ocena_towaru>4.0</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Renesans">
+						<Cena_zakupu>70 </Cena_zakupu>
+						<Cena_sprzedarzy>80 </Cena_sprzedarzy>
+						<Ilość_towaru>4 palety</Ilość_towaru>
+						<Pojemnosc_Towaru>12 kolorów</Pojemnosc_Towaru>
+						<Ocena_towaru>4.9</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Sonnet">
+						<Cena_zakupu>32 </Cena_zakupu>
+						<Cena_sprzedarzy>40 </Cena_sprzedarzy>
+						<Ilość_towaru>2 palety</Ilość_towaru>
+						<Pojemnosc_Towaru>14 kolorów</Pojemnosc_Towaru>
+						<Ocena_towaru>3.5</Ocena_towaru>
+					</Dostawca>
+			</Typ>
+			<Typ rodzaj="olejne">
+					<Dostawca firma="WINSOR_AND_NEWTON">
+						<Cena_zakupu>30 </Cena_zakupu>
+						<Cena_sprzedarzy>35 </Cena_sprzedarzy>
+						<Ilość_towaru>zestawy 10/12</Ilość_towaru>
+						<Pojemnosc_Towaru>200 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>3.2</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="VanGogh">
+						<Cena_zakupu>11 </Cena_zakupu>
+						<Cena_sprzedarzy>16 </Cena_sprzedarzy>
+						<Ilość_towaru>zestawy 10/10</Ilość_towaru>
+						<Pojemnosc_Towaru>150 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>3.0</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Pheonix">
+						<Cena_zakupu>10 </Cena_zakupu>
+						<Cena_sprzedarzy>12 </Cena_sprzedarzy>
+						<Ilość_towaru>zestawy 4/15</Ilość_towaru>
+						<Pojemnosc_Towaru>200 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>3.0</Ocena_towaru>
+					</Dostawca>
+			</Typ>
+			<Typ rodzaj="gwasz">
+					<Dostawca firma="WINSOR_AND_NEWTON">
+						<Cena_zakupu>15 </Cena_zakupu>
+						<Cena_sprzedarzy>16 </Cena_sprzedarzy>
+						<Ilość_towaru>4 tubki</Ilość_towaru>
+						<Pojemnosc_Towaru>200 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>4.6</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Renesans">
+						<Cena_zakupu>4 </Cena_zakupu>
+						<Cena_sprzedarzy>5 </Cena_sprzedarzy>
+						<Ilość_towaru>7 tubki</Ilość_towaru>
+						<Pojemnosc_Towaru>200 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>4.8</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Telens">
+						<Cena_zakupu>5.5 </Cena_zakupu>
+						<Cena_sprzedarzy>6 </Cena_sprzedarzy>
+						<Ilość_towaru>4 tubki</Ilość_towaru>
+						<Pojemnosc_Towaru>350 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>4.1</Ocena_towaru>
+					</Dostawca>
+			</Typ>
+			<Typ rodzaj="akryl">
+					<Dostawca firma="Renesans">
+						<Cena_zakupu>9 </Cena_zakupu>
+						<Cena_sprzedarzy>9</Cena_sprzedarzy>
+						<Ilość_towaru>10 tubek</Ilość_towaru>
+						<Pojemnosc_Towaru>200 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>4.6</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Telens">
+						<Cena_zakupu>6.5</Cena_zakupu>
+						<Cena_sprzedarzy>7</Cena_sprzedarzy>
+						<Ilość_towaru>15 tubek</Ilość_towaru>
+						<Pojemnosc_Towaru>120 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>4.6</Ocena_towaru>
+					</Dostawca>
+					<Dostawca firma="Pheonix">
+						<Cena_zakupu>4</Cena_zakupu>
+						<Cena_sprzedarzy>6</Cena_sprzedarzy>
+						<Ilość_towaru>10 tubek</Ilość_towaru>
+						<Pojemnosc_Towaru>150 ml</Pojemnosc_Towaru>
+						<Ocena_towaru>4.0</Ocena_towaru>
+					</Dostawca>
+			</Typ>
+		</farby>
+		<obrazy typ="repliki">
+			<image source="Grafit.jpg">Rysunek wykonany grafitem</image>
+			<image source="Węgiel.jpg" >Rysunek wykonany weglem</image>
+			<image source="Sepia.jpg">Rysunek wykonany w sepi</image>
+			<image source="Tusz.jpg">Rysunek wykonany tuszem</image>
+			<image source="Akwarele.jpg">Obraz wykonany akwarelami</image>
+			<image source="Oleje.jpg">Obraz wykonany farabami olejnymi</image>
+			<image source="Gwasz.jpg">Obraz wykonany gwaszem</image>
+			<image source="Akryl.jpg">Obraz wykonany akrylami</image>
+		</obrazy>
+   </dostawa>
+   <odbiór_formalnośći godzina="08:45:00">
+		<odpowiedzialni_za_odbiór>
+			<Pracownik stanowisko="Kierownik_zmiany">Jan Starzewski</Pracownik>
+			<Pracownik stanowisko="Kierownik_magazynu">Henryk Malewski</Pracownik>
+			<Pracownik stanowisko="Menadzer">Anna Tulska</Pracownik>
+		</odpowiedzialni_za_odbiór>
+		<informacja_dla_dostawcy>
+			<przywitanie>Drogi Panie <imie>Karolu,</imie></przywitanie>
+			bardzo prosze o dostarczenie <ilość>1</ilość> <przedmiot>paczki
+			</przedmiot>do centrum kurierowskiego na ulicy
+			<adres>Jana z Kolna 15</adres>. Z góry dziękuje za fatyge. Z poważaniem Janik.
+		</informacja_dla_dostawcy>
+		<odpowiedzialni_za_rozładunek firma="Zlecenie" >
+			<Pracownik stanowisko="Kierownik_zmiany">Jan Starzewski</Pracownik>
+			<Pracownik stanowisko="Kierownik_magazynu">Henryk Malewski</Pracownik>
+		</odpowiedzialni_za_rozładunek>
+		<Kod_seryjny_zamówienia>10 34 56 23 15 67</Kod_seryjny_zamówienia>	
+		<Podział_paczek>Delikatne</Podział_paczek>
+		<Podział_paczek>Specjalne traktowanie</Podział_paczek>		
+		<przekierowania_do_sklepów kraj="Polska">
+			<link source="https://www.swiatartysty.pl/">Świat Artysty</link>
+			<link source="https://www.storm24.pl/">Storm</link>
+			<link source="https://www.tintadlaplastykow.pl/">Tinta</link>
+		</przekierowania_do_sklepów>
+	</odbiór_formalnośći>
+ </usługa_dla_sklepu>
